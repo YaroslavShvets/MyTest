@@ -1,0 +1,9 @@
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\bin\Debug\exam.exe
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\bin\Debug\exam.pdb
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\exam.exe
+C:\Users\Yaroslav\Desktop\Новая папка (2)\exam\exam\obj\Debug\exam.pdb
